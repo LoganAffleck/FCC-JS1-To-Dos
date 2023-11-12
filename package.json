@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "fcc-js1",
+  "version": "1.0.0",
+  "description": "A review of the first half of the Basic Javascript course",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "J. Logan Affleck",
+  "license": "ISC"
+}
