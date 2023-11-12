@@ -26,6 +26,11 @@ test("Task 3: Return confirmation message with completed task at the end. ", () 
 } )
 
 //Task 4
+
+test("Task 4: Passing a string to getTask() returns the error message.", () => {
+    expect(data.getTask("Err")).toBe(data.ERROR_MESSAGE)
+})
+
 test("Task 4: Passing a negative number to getTask() returns the error message. ", () => {
     expect(data.getTask(-1)).toBe(data.ERROR_MESSAGE)
 })

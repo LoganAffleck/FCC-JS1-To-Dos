@@ -46,7 +46,9 @@ function getTodoLength(){
 // Return a message that concatenates the text of the task you removed
 // to the end of the constant variable called COMPLETE_TASK 
 
+function completeFirstTask(){
 
+}
 
 
 //----------------------------------------------------------
@@ -57,12 +59,14 @@ function getTodoLength(){
 
 // Write a function called getTask that returns the To-Do task at a given number.
 // getTask() should accept an argument so that you can pass in a value. 
-// Use the Number() function to check if the argument is a number. (Look this up if you need to!!)
+// Use the typeof operator to check if the argument is a number. (Look this up if you need to!!)
 // getTask() should return the constant variable called ERROR_MESSAGE if a task is not found at that number. 
 // Make sure to account for negative numbers. 
 // Make sure to account for the numbering differences between numbered lists and indexes. For example, 0 is not a valid list number.
 
+function getTask(){
 
+}
 
 
 
