@@ -18,7 +18,7 @@ The assignment will cover the following concepts:
 - Using strings, escaping quotes, string concatenation, using the .length() method
 - Compound Assignment
 - Bracket Notation
-- Arrays, multi-dimensional arrays, using array methods
+- Arrays, using array methods
 - Functions
 - Using If/else
 - Comparisons and Truthiness
@@ -48,8 +48,6 @@ npm install
 ```
 
 ## Testing and Completion
-
-This app uses Live Server to refresh to your changes and show 
 
 This application uses Jest to test your code to ensure that your code works as intended. To test your code, run the following command in the Terminal:
 
